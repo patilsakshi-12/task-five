@@ -1,4 +1,4 @@
-# Student Grade Calculator
+# Student Grade Calculator 
 # This program takes marks for subjects and calculates grade
 
 print("Welcome to Student Grade Calculator")
